@@ -2,7 +2,7 @@
 
 Python-Exloader is a completely free, open-source cheat. It's 100% written in Python, without requiring the installation of third-party libraries outside of the package manager "pip." Without writing to the game's memory, it offers the following features: WH, Aim, Trigger Bot.
 
-<a href='https://postimg.cc/hQBvHvtS' target='_blank'><img src='https://i.postimg.cc/hQBvHvtS/KXea18w.png' border='0' alt='KXea18w'/></a>
+<a href='https://postimg.cc/hQBvHvtS' target='_blank'><img src='https://i.postimg.cc/L5qPgZdZ/KXea18w.png' border='0' alt='KXea18w'/></a>
 
 # To install:
 
