@@ -1,6 +1,6 @@
-# PyIt - external cheat cs2 in python
+# Python-Exloader - external cheat cs2 in python NEW VERSION
 
-PyIt is a completely free, open-source cheat. It's 100% written in Python, without requiring the installation of third-party libraries outside of the package manager "pip." Without writing to the game's memory, it offers the following features: WH, Aim, Trigger Bot.
+Python-Exloader is a completely free, open-source cheat. It's 100% written in Python, without requiring the installation of third-party libraries outside of the package manager "pip." Without writing to the game's memory, it offers the following features: WH, Aim, Trigger Bot.
 
 ![2024-08-13_12-36-03](https://github.com/user-attachments/assets/580fa55b-0c7d-45bb-ba36-c0ae01d0b9b9)
 
@@ -10,14 +10,10 @@ Python 3.10+
 ```sh
 pip install PySide6 requests pymem pywin32 pynput qt_material
 ```
-or
-```sh
-pip install -r requirements.txt
-```
 
 # Launch
 ```sh
-python PyItV1.0.6.py
+PYCHEAT.exe
 ```
 
 # Functions
@@ -35,5 +31,5 @@ Save the file "config.json" in the path - "AppData\Local\Temp\PyIt". Automatical
 # LICENSE
 This project is licensed under the terms of the MIT License - see the `LICENSE` file for details.
 
-Go to the Discord channel - https://discord.gg/n89PDURbTg
+Go to the Discord channel - 
 :D
